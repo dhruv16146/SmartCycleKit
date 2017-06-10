@@ -1,0 +1,2 @@
+# SmartCycleKit
+A kit used to prevent cycle accidents using proximity sensor(ultrasonic) HC05 ,arduino uno,adxl(motion sensor),bluetooth module,lilypad arduino, jacket ,LED's etc.It basically detects motion of the cyclists and turns the corresponding lights on.For eg:Cyclist moving right means the LED's attached at the back of cyclists will turn on and so for left.Moreover If the person is too close too a cyclists then middle LED's will glow(as a a warning sign).
